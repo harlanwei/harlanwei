@@ -1,8 +1,7 @@
 ### Hi! I'm Harlan. 👋
 
-- Living in Beijing for the 6th year as of now.
-- Currently working as an intern at *ByteDance Inc.* in the infrastructure team.
-- Studying in *Peking University* on topics related to system security.
+- Studying in *Peking University* on topics related to operating systems.
+- Looking for doctoral positions as of now.
 
 ### Get in touch...
 
