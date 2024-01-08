@@ -5,4 +5,5 @@
 
 ### Get in touch...
 
-- For work opportunities and collabs on projects, email me at vian-business@outlook.com
+- For work opportunities and collabs on projects, email me at work \[at\] harlanwei.com
+- Visit my [home page](https://harlanwei.com).
